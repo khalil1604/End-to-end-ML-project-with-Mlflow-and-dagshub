@@ -6,6 +6,17 @@ from mlProject.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeli
 from mlProject.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
 import os
 
+
+mlflow_tracking_uri = os.getenv("MLFLOW_TRACKING_URI")
+mlflow_username = os.getenv("MLFLOW_TRACKING_USERNAME")
+mlflow_password = os.getenv("MLFLOW_TRACKING_PASSWORD")
+
+# Set the environment variables
+os.environ["MLFLOW_TRACKING_URI"] = mlflow_tracking_uri
+os.environ["MLFLOW_TRACKING_USERNAME"] = mlflow_username
+os.environ["MLFLOW_TRACKING_PASSWORD"] = mlflow_password
+
+
 STAGE_NAME = "Data Ingestion stage"
 
 try:
@@ -57,10 +68,7 @@ except Exception as e:
     raise e
 
 
-#os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/khalil1604/ML-project-with-mlflow.mlflow"
-#
-#os.environ["MLFLOW_TRACKING_USERNAME"]="khalil1604"
-#os.environ["MLFLOW_TRACKING_PASSWORD"]="e1156110eb97e2afa8ca36f3634e3a8d1a297b3a"
+
 
 
 STAGE_NAME = "Model evaluation stage"
