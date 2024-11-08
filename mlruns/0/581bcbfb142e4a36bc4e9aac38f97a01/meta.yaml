@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KHALIL/Documents/end%20to%20end%20ml%20with%20ml%20flow/mlruns/0/581bcbfb142e4a36bc4e9aac38f97a01/artifacts
+end_time: 1731057471258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 581bcbfb142e4a36bc4e9aac38f97a01
+run_name: masked-kit-762
+run_uuid: 581bcbfb142e4a36bc4e9aac38f97a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731057465200
+status: 3
+tags: []
+user_id: KHALIL

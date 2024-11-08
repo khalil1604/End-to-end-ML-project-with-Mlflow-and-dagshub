@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KHALIL/Documents/end%20to%20end%20ml%20with%20ml%20flow/mlruns/0/7fa884cbe7ff4b94b3416402e8e1521f/artifacts
+end_time: 1731061148558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fa884cbe7ff4b94b3416402e8e1521f
+run_name: resilient-kite-876
+run_uuid: 7fa884cbe7ff4b94b3416402e8e1521f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731061142396
+status: 3
+tags: []
+user_id: KHALIL

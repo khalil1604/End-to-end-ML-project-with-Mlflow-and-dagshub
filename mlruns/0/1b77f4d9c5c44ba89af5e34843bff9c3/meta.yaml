@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KHALIL/Documents/end%20to%20end%20ml%20with%20ml%20flow/mlruns/0/1b77f4d9c5c44ba89af5e34843bff9c3/artifacts
+end_time: 1731057082734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b77f4d9c5c44ba89af5e34843bff9c3
+run_name: unleashed-ray-631
+run_uuid: 1b77f4d9c5c44ba89af5e34843bff9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731057076605
+status: 4
+tags: []
+user_id: KHALIL

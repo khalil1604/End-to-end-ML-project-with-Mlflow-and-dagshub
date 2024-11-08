@@ -13,3 +13,12 @@ workflows
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+
+import dagshub
+dagshub.init(repo_owner='khalil1604', repo_name='ML-project-with-mlflow', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)

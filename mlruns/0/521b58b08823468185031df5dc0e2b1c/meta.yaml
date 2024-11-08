@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KHALIL/Documents/end%20to%20end%20ml%20with%20ml%20flow/mlruns/0/521b58b08823468185031df5dc0e2b1c/artifacts
+end_time: 1731058832066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 521b58b08823468185031df5dc0e2b1c
+run_name: lyrical-shoat-40
+run_uuid: 521b58b08823468185031df5dc0e2b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731058825767
+status: 3
+tags: []
+user_id: KHALIL

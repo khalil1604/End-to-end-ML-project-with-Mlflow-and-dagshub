@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KHALIL/Documents/end%20to%20end%20ml%20with%20ml%20flow/mlruns/0/229f155ed55a41529b38c8b9c678182f/artifacts
+end_time: 1731058327229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 229f155ed55a41529b38c8b9c678182f
+run_name: gaudy-penguin-541
+run_uuid: 229f155ed55a41529b38c8b9c678182f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731058319663
+status: 3
+tags: []
+user_id: KHALIL

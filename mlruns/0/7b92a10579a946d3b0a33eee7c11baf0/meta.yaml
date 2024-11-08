@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KHALIL/Documents/end%20to%20end%20ml%20with%20ml%20flow/mlruns/0/7b92a10579a946d3b0a33eee7c11baf0/artifacts
+end_time: 1731057238416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b92a10579a946d3b0a33eee7c11baf0
+run_name: sneaky-auk-35
+run_uuid: 7b92a10579a946d3b0a33eee7c11baf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731057232080
+status: 4
+tags: []
+user_id: KHALIL
