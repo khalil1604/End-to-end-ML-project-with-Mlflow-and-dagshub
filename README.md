@@ -4,6 +4,11 @@
 
 This project is a comprehensive machine learning pipeline designed to predict wine quality using advanced data science techniques. The project follows a structured, modular approach to machine learning development, implementing best practices in data handling, model training, and evaluation.
 
+![image](./screenshots/abc.png)
+
+
+![image](./screenshots/abc1.png)
+
 ## Project Development Journey
 
 ### 1. Project Initialization and Setup
@@ -94,9 +99,13 @@ Advanced experiment tracking was achieved using MLflow:
 - Tracked in `mlruns/` directory
 - Logged multiple experimental runs
 - Captured:
-  - Model parameters
+  - Model hyper parameters
   - Performance metrics
-  - Experiment metadata
+
+  Example of regularization parameters tracking:
+
+  ![Image3](./screenshots/abc2.png)
+  
 
 ### 8. Prediction Pipeline
 
