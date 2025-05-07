@@ -1,13 +1,7 @@
-# Wine Quality Prediction Project
 
 ## Project Overview
 
-This project is a comprehensive machine learning pipeline designed to predict wine quality using advanced data science techniques. The project follows a structured, modular approach to machine learning development, implementing best practices in data handling, model training, and evaluation.
-
-![image](./screenshots/abc.png)
-
-
-![image](./screenshots/abc1.png)
+This project is a comprehensive machine learning pipeline designed to predict customer behaviour using advanced data science techniques. The project follows a structured, modular approach to machine learning development, implementing best practices in data handling, model training, and evaluation.
 
 ## Project Development Journey
 
@@ -23,12 +17,11 @@ The project began with careful project structure planning, creating a well-organ
 
 ### 2. Data Ingestion Strategy
 
-The data ingestion phase focused on systematically importing and preparing the wine quality dataset:
+The data ingestion phase focused on systematically importing and preparing the dataset:
 
 - Located in `src/mlProject/components/data_ingestion.py`
 - Implemented robust data downloading and extraction mechanisms
 - Stored raw and processed data in `artifacts/data_ingestion/`
-- Created `winequality-red.csv` as the primary dataset
 
 #### Key Achievements in Data Ingestion:
 - Automated data retrieval
@@ -163,4 +156,4 @@ GitHub Actions workflow (`main.yaml`) set up for:
 
 
 
-  ecr_uri = 054037107074.dkr.ecr.eu-north-1.amazonaws.com/mlprojectwinequality
+  ecr_uri = 054037107074.dkr.ecr.eu-north-1.amazonaws.com/mlproject
